@@ -30,6 +30,18 @@
                 <li><a href="">Contato</a></li>
             </ul>
             <div class="clear"></div>
+            <br>
+            <br>
+            <div class="w50 tine-descricao">
+                <h2>Melhora a comunicação com seu cliente e time</h2>
+                <p>Consultoria especializada em startups, empresa e , principalmente, pessoas. </p>
+                <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Ver demonstração</a>
+            </div><!-- /.w50 -->
+
+            <div class="w50 tine-imagem">
+                <img src="./images/ilustracao.png" alt="">
+            </div><!-- /.w50 -->
+            <div class="clear"></div>
         </div><!-- /.center -->
 
     </section><!-- /.topo -->
